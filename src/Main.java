@@ -12,4 +12,8 @@ public class Main {
         return null;
     }
 
+    public static int[] mergeSort(int[] array) {
+        return null;
+    }
+
 }
