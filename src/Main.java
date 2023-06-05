@@ -8,7 +8,7 @@ public class Main {
         return false;
     }
 
-    public static int[] merge(int left, int right){
+    public static int[] merge(int[] left, int[] right){
         return null;
     }
 
