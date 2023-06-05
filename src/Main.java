@@ -4,5 +4,10 @@ public class Main {
 
 
     }
+    public static boolean isSorted(int[] array) {
+        return false;
+
+
+    }
 
 }
